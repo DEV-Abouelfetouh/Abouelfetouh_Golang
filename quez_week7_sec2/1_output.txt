@@ -1,0 +1,2 @@
+Second: 30
+First: 10
